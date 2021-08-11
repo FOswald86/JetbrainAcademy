@@ -1,5 +1,4 @@
 # JetbrainAcademy # HyperSkill
-exercise projects
 
 Contains projects produced on Hyperskill -  
 https://hyperskill.org
