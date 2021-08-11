@@ -1,12 +1,8 @@
-# JetbrainAcademy
+# JetbrainAcademy # HyperSkill
 exercise projects
 
-
-# HyperSkill Projects
 Contains projects produced on Hyperskill -  
-# HyperSkill Projects (Java)
-Contains Java projects produced on Hyperskill -  
-https://hyperskill.org/profile/518836
+https://hyperskill.org
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
