@@ -1,5 +1,24 @@
-# JetbrainAcademySimple
-easy exercises
+# JetbrainAcademy
+exercise projects
 
-My very first Project with Jetbrain Academy.
-As a not nativ english speaker it is possible that sometimes variable names or output of print commands are written in german.
+
+# HyperSkill Projects
+Contains projects produced on Hyperskill -  
+# HyperSkill Projects (Java)
+Contains Java projects produced on Hyperskill -  
+https://hyperskill.org/profile/518836
+
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+
+Projects
+
+- [Simple Chatty Bot](#simple-chatty-bot)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
+## Simple Chatty Bot
+A simple bot that will help you in your learning and make it more fun.    
+https://github.com/drtierney/hyperskill-SimpleChattyBot
+<img src="https://github.com/FOswald86/JetbrainAcademy_SimpleChatBot/blob/main/ezgif.com-gif-maker.gif width="800" height="600" />  
+https://hyperskill.org/projects/31
