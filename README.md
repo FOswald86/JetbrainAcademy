@@ -1,4 +1,4 @@
-# JetbrainAcademy # HyperSkill
+# JetbrainAcademy / HyperSkill
 
 Contains projects produced on Hyperskill -  
 https://hyperskill.org
