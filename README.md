@@ -20,5 +20,5 @@ Projects
 ## Simple Chatty Bot
 A simple bot that will help you in your learning and make it more fun.    
 https://github.com/FOswald86/JetbrainAcademy_SimpleChatBot
-<img src="https://github.com/FOswald86/JetbrainAcademy_SimpleChatBot/blob/main/SimpleChatBot.mp4" width="785" height="599" />  
+<img src="https://github.com/FOswald86/JetbrainAcademy_SimpleChatBot/blob/main/SimpleChatBot.gif" width="785" height="599" />  
 https://hyperskill.org/projects/31
