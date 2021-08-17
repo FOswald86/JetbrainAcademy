@@ -9,11 +9,18 @@ https://hyperskill.org
 Projects
 
 - [Simple Chatty Bot](#simple-chatty-bot)
+- [TicTacToe](#TicTacToe)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 ## Simple Chatty Bot
 A simple bot that will help you in your learning and make it more fun.    
 https://github.com/FOswald86/JetbrainAcademy_SimpleChatBot
+<img src="https://github.com/FOswald86/JetbrainAcademy_SimpleChatBot/blob/main/SimpleChatBot.gif" width="785" height="599" />  
+https://hyperskill.org/projects/31
+
+## Simple TicTacToe
+A simple TicTacToe game for 2 players via console.    
+https://github.com/FOswald86/JetbrainAcademy_TicTacToe
 <img src="https://github.com/FOswald86/JetbrainAcademy_SimpleChatBot/blob/main/SimpleChatBot.gif" width="785" height="599" />  
 https://hyperskill.org/projects/31
