@@ -1,7 +1,7 @@
 # JetbrainAcademy / HyperSkill
 
 Contains projects produced on Hyperskill -  
-https://hyperskill.org
+https://hyperskill.org/join/302dcc571
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
