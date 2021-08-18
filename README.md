@@ -10,6 +10,7 @@ Projects
 
 - [Simple Chatty Bot](#simple-chatty-bot)
 - [Tic-Tac-Toe](#tic-tac-toe)
+- [Cinema Room Manager](#cinema-room-manager)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -29,3 +30,12 @@ https://github.com/drtierney/hyperskill-TicTacToe
 <img src="https://github.com/FOswald86/JetbrainAcademy_TicTacToe/blob/main/TicTacToe.gif" width="800" height="500" />  
 
 https://hyperskill.org/projects/48
+
+
+## Cinema Room Manager
+A simple Program to simulate how ticket purchasing and seat reserving could work.
+https://github.com/FOswald86/JetbrainAcademy_CinemaRoomManager
+
+<img src="https://github.com/FOswald86/JetbrainAcademy_CinemaRoomManager/blob/main/CinemaRoomManager.gif" width="800" height="500" />
+
+https://hyperskill.org/projects/133
