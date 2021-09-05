@@ -11,7 +11,7 @@ Projects
 - [Simple Chatty Bot](#simple-chatty-bot)
 - [Tic-Tac-Toe](#tic-tac-toe)
 - [Cinema Room Manager](#cinema-room-manager)
-- [Simple Banking System](#simple-baking-system)
+- [Simple Banking System](#simple-banking-system)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -43,11 +43,9 @@ https://hyperskill.org/projects/133
 
 
 ## Simple Banking System
-Banking program with database storing
+In this project, you will find out how the banking system works and learn about SQL. We'll also see how Luhn algorithm can help us avoid mistakes when entering the card number. As an overall result, you'll get new experience in Java.
 https://github.com/FOswald86/JetbrainAcademy_SimpleBankingSystem
 
 <img src="https://github.com/FOswald86/JetbrainAcademy_SimpleBankingSystem/blob/main/SimpleBankingSystem.gif" width="800" height="500" />
 
-https://hyperskill.org/projects/133
-
-
+https://hyperskill.org/projects/93
