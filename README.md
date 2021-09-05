@@ -26,7 +26,7 @@ https://hyperskill.org/projects/31
 
 ## Tic-Tac-Toe  
 A simple TicTacToe game for 2 players via console.          
-https://github.com/drtierney/hyperskill-TicTacToe  
+https://github.com/FOswald86/JetbrainAcademy_TicTacToe  
 
 <img src="https://github.com/FOswald86/JetbrainAcademy_TicTacToe/blob/main/TicTacToe.gif" width="800" height="500" />  
 
