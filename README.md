@@ -42,7 +42,7 @@ https://github.com/FOswald86/JetbrainAcademy_CinemaRoomManager
 https://hyperskill.org/projects/133
 
 
-## SimpleBankingSystem
+## Simple Banking System
 Banking program with database storing
 https://github.com/FOswald86/JetbrainAcademy_SimpleBankingSystem
 
