@@ -11,6 +11,7 @@ Projects
 - [Simple Chatty Bot](#simple-chatty-bot)
 - [Tic-Tac-Toe](#tic-tac-toe)
 - [Cinema Room Manager](#cinema-room-manager)
+- [Simple Banking System](#simple-baking-system)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -33,9 +34,20 @@ https://hyperskill.org/projects/48
 
 
 ## Cinema Room Manager
-A simple Program to simulate how ticket purchasing and seat reserving could work.
+A simple program to simulate how ticket purchasing and seat reserving could work.
 https://github.com/FOswald86/JetbrainAcademy_CinemaRoomManager
 
 <img src="https://github.com/FOswald86/JetbrainAcademy_CinemaRoomManager/blob/main/CinemaRoomManager.gif" width="800" height="500" />
 
 https://hyperskill.org/projects/133
+
+
+## SimpleBankingSystem
+Banking program with database storing
+https://github.com/FOswald86/JetbrainAcademy_SimpleBankingSystem
+
+<img src="https://github.com/FOswald86/JetbrainAcademy_SimpleBankingSystem/blob/main/SimpleBankingSystem.gif" width="800" height="500" />
+
+https://hyperskill.org/projects/133
+
+
