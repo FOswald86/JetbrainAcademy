@@ -47,7 +47,7 @@ https://hyperskill.org/projects/133
 In this project, you can learn a lot about algorithm combined with handling numbers.
 
 Available properties: even, odd, buzz, duck, palindromic, gapful, spy, square, sunny, jumping, happy, sad,
--even, -odd, -buzz, -duck, -palindromic, -gapful, -spy, -square, -sunny, -jumping, -happy, -sad
+-even, -odd, -buzz, -duck, -palindromic, -gapful, -spy, -square, -sunny, -jumping, -happy, -sad  
 https://github.com/FOswald86/JetbrainAcademy_AmazingNumbers   
 
 <img src="https://github.com/FOswald86/JetbrainAcademy_AmazingNumbers/blob/main/AmazingNumbers.gif" width="800" height="500" />  
