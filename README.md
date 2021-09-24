@@ -21,6 +21,7 @@ A simple bot that will help you in your learning and make it more fun.
 https://github.com/FOswald86/JetbrainAcademy_SimpleChatBot  
 
 <img src="https://github.com/FOswald86/JetbrainAcademy_SimpleChatBot/blob/main/SimpleChatBot.gif" width="800" height="500" />  
+  
 
 https://hyperskill.org/projects/31  
 
@@ -39,6 +40,7 @@ A simple program to simulate how ticket purchasing and seat reserving could work
 https://github.com/FOswald86/JetbrainAcademy_CinemaRoomManager  
 
 <img src="https://github.com/FOswald86/JetbrainAcademy_CinemaRoomManager/blob/main/CinemaRoomManager.gif" width="800" height="500" />
+  
 
 https://hyperskill.org/projects/133  
   
@@ -50,7 +52,8 @@ Available properties: even, odd, buzz, duck, palindromic, gapful, spy, square, s
 -even, -odd, -buzz, -duck, -palindromic, -gapful, -spy, -square, -sunny, -jumping, -happy, -sad  
 https://github.com/FOswald86/JetbrainAcademy_AmazingNumbers   
 
-<img src="https://github.com/FOswald86/JetbrainAcademy_AmazingNumbers/blob/main/AmazingNumbers.gif" width="800" height="500" />  
+<img src="https://github.com/FOswald86/JetbrainAcademy_AmazingNumbers/blob/main/AmazingNumbers.gif" width="800" height="500" /> 
+  
   
 https://hyperskill.org/projects/184
 
@@ -59,5 +62,6 @@ In this project, you will find out how the banking system works and learn about 
 https://github.com/FOswald86/JetbrainAcademy_SimpleBankingSystem  
 
 <img src="https://github.com/FOswald86/JetbrainAcademy_SimpleBankingSystem/blob/main/SimpleBankingSystem.gif" width="800" height="500" />
+  
 
 https://hyperskill.org/projects/93  
