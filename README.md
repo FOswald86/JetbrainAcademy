@@ -11,6 +11,7 @@ Projects
 - [Simple Chatty Bot](#simple-chatty-bot)
 - [Tic-Tac-Toe](#tic-tac-toe)
 - [Cinema Room Manager](#cinema-room-manager)
+- [Amazing Numbers](#Amazing-Numbers)
 - [Simple Banking System](#simple-banking-system)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -40,7 +41,18 @@ https://github.com/FOswald86/JetbrainAcademy_CinemaRoomManager
 <img src="https://github.com/FOswald86/JetbrainAcademy_CinemaRoomManager/blob/main/CinemaRoomManager.gif" width="800" height="500" />
 
 https://hyperskill.org/projects/133  
+  
+  
+## Amazing Numbers  
+In this project, you can learn a lot about algorithm combined with handling numbers.
 
+Available properties: even, odd, buzz, duck, palindromic, gapful, spy, square, sunny, jumping, happy, sad,
+-even, -odd, -buzz, -duck, -palindromic, -gapful, -spy, -square, -sunny, -jumping, -happy, -sad
+https://github.com/FOswald86/JetbrainAcademy_AmazingNumbers   
+
+<img src="https://github.com/FOswald86/JetbrainAcademy_AmazingNumbers/blob/main/AmazingNumbers.gif" width="800" height="500" />  
+  
+https://hyperskill.org/projects/184
 
 ## Simple Banking System  
 In this project, you will find out how the banking system works and learn about SQL. We'll also see how Luhn algorithm can help us avoid mistakes when entering the card number. As an overall result, you'll get new experience in Java.  
