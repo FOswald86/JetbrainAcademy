@@ -9,10 +9,10 @@ https://hyperskill.org/join/302dcc571
 Projects
 
 - [Simple Chatty Bot](#simple-chatty-bot)
-- [Coffee Machin](#Coffee_Machin)
+- [Coffee Machin](#coffee-machin)
 - [Tic-Tac-Toe](#tic-tac-toe)
 - [Cinema Room Manager](#cinema-room-manager)
-- [Amazing Numbers](#Amazing-Numbers)
+- [Amazing Numbers](#amazing-numbers)
 - [Simple Banking System](#simple-banking-system)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -29,8 +29,8 @@ https://hyperskill.org/projects/31
   
     
 ## Coffee Machin  
-Available actions: buy, fill, take, remaining, back, exit
-Available coffees: 1 - espresso, 2 - latte, 3 - cappuccino  
+Available actions: buy, fill, take, remaining, back, exit  
+Available coffees: 1 - espresso, 2 - latte, 3 - cappuccino    
   
 https://github.com/FOswald86/JetbrainsAcademy_CoffeeMachine/blob/master/README.md  
 
