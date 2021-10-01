@@ -13,6 +13,7 @@ Projects
 - [Tic-Tac-Toe](#tic-tac-toe)
 - [Cinema Room Manager](#cinema-room-manager)
 - [Amazing Numbers](#amazing-numbers)
+- [Battle Ships](#battle-ships)
 - [Simple Banking System](#simple-banking-system)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -73,6 +74,16 @@ https://github.com/FOswald86/JetbrainAcademy_AmazingNumbers
   
   
 https://hyperskill.org/projects/184
+
+## Battle Ships  
+Multiplayer Battle Ships console Game...
+  
+https://github.com/FOswald86/JetbrainAcademy_Battleship   
+
+<img src="https://github.com/FOswald86/JetbrainAcademy_Battleship/blob/master/BattleShips.gif" width="800" height="500" /> 
+  
+  
+https://hyperskill.org/projects/125
 
 ## Simple Banking System  
 In this project, you will find out how the banking system works and learn about SQL. We'll also see how Luhn algorithm can help us avoid mistakes when entering the card number. As an overall result, you'll get new experience in Java.   
