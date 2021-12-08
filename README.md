@@ -58,5 +58,5 @@ https://github.com/FOswald86/JetbrainAcademy_SimpleBankingSystem
 https://hyperskill.org/projects/93
   
 ## Music Advisor  
-https://github.com/FOswald86/BrainjetAcademy_MusicAdvisor/blob/main/README.md  
+https://github.com/FOswald86/BrainjetAcademy_MusicAdvisor  
 https://hyperskill.org/projects/62?track=17  
