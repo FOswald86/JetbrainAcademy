@@ -17,6 +17,7 @@ Projects
 - [Minesweeper](#minesweeper)
 - [Game of Life](#game-of-life)
 - [Simple Banking System](#simple-banking-system)
+- [Music Advisor](#music-advisor)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -54,4 +55,8 @@ https://hyperskill.org/projects/54
 
 ## Simple Banking System  
 https://github.com/FOswald86/JetbrainAcademy_SimpleBankingSystem  
-https://hyperskill.org/projects/93  
+https://hyperskill.org/projects/93
+  
+## Music Advisor  
+https://github.com/FOswald86/BrainjetAcademy_MusicAdvisor/blob/main/README.md  
+https://hyperskill.org/projects/62?track=17  
