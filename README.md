@@ -15,6 +15,7 @@ Projects
 - [Amazing Numbers](#amazing-numbers)
 - [Battle Ships](#battle-ships)  
 - [Minesweeper](#minesweeper)
+- [Budget Manager](#budget-manager)
 - [Game of Life](#game-of-life)
 - [Simple Banking System](#simple-banking-system)
 - [Music Advisor](#music-advisor)
@@ -48,6 +49,10 @@ https://hyperskill.org/projects/125
 ## Minesweeper  
 https://github.com/FOswald86/JetbrainAcademy_Minesweeper  
 https://hyperskill.org/projects/77  
+  
+## Budget Manager  
+https://github.com/FOswald86/BrainjetAcademy_BudgetManager
+https://hyperskill.org/projects/76  
   
 ## Game of Life  
 https://github.com/FOswald86/BrainjetAcademy_GameOfLife   
