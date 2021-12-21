@@ -51,7 +51,7 @@ https://github.com/FOswald86/JetbrainAcademy_Minesweeper
 https://hyperskill.org/projects/77  
   
 ## Budget Manager  
-https://github.com/FOswald86/BrainjetAcademy_BudgetManager
+https://github.com/FOswald86/BrainjetAcademy_BudgetManager  
 https://hyperskill.org/projects/76  
   
 ## Game of Life  
