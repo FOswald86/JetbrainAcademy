@@ -29,40 +29,50 @@ https://hyperskill.org/projects/31
   
 ## Coffee Machin    
 https://github.com/FOswald86/JetbrainsAcademy_CoffeeMachine   
+<img src="https://github.com/FOswald86/JetbrainsAcademy_CoffeeMachine/blob/master/CoffeeMachine.gif" width="800" height="500" />  
 https://hyperskill.org/projects/33  
   
 ## Tic-Tac-Toe   
 https://github.com/FOswald86/JetbrainAcademy_TicTacToe  
+<img src="https://github.com/FOswald86/JetbrainAcademy_TicTacToe/blob/main/TicTacToe.gif" width="800" height="500" />  
 https://hyperskill.org/projects/48  
   
 ## Cinema Room Manager   
 https://github.com/FOswald86/JetbrainAcademy_CinemaRoomManager  
+<img src="https://github.com/FOswald86/JetbrainAcademy_CinemaRoomManager/blob/main/CinemaRoomManager.gif" width="800" height="500" />  
 https://hyperskill.org/projects/133  
   
 ## Amazing Numbers  
 https://github.com/FOswald86/JetbrainAcademy_AmazingNumbers   
+<img src="https://github.com/FOswald86/JetbrainAcademy_AmazingNumbers/blob/main/AmazingNumbers.gif" width="800" height="500" />  
 https://hyperskill.org/projects/184  
 
 ## Battle Ships  
 https://github.com/FOswald86/JetbrainAcademy_Battleship   
+<img src="https://github.com/FOswald86/JetbrainAcademy_Battleship/blob/master/BattleShips.gif" width="800" height="500" />  
 https://hyperskill.org/projects/125  
   
 ## Minesweeper  
 https://github.com/FOswald86/JetbrainAcademy_Minesweeper  
+<img src="https://github.com/FOswald86/JetbrainAcademy_Minesweeper/blob/master/minesweeper.gif" width="800" height="500" />  
 https://hyperskill.org/projects/77  
   
 ## Budget Manager  
 https://github.com/FOswald86/BrainjetAcademy_BudgetManager  
+<img src="https://github.com/FOswald86/BrainjetAcademy_BudgetManager/blob/main/BudgetManager.gif" width="800" height="500" />  
 https://hyperskill.org/projects/76  
   
 ## Game of Life  
 https://github.com/FOswald86/BrainjetAcademy_GameOfLife   
+<img src="https://github.com/FOswald86/BrainjetAcademy_GameOfLife/blob/master/GameOfLife.gif" width="800" height="500" />  
 https://hyperskill.org/projects/54  
 
 ## Simple Banking System  
 https://github.com/FOswald86/JetbrainAcademy_SimpleBankingSystem  
+<img src="https://github.com/FOswald86/JetbrainAcademy_SimpleBankingSystem/blob/main/SimpleBankingSystem.gif" width="800" height="500" />  
 https://hyperskill.org/projects/93
   
 ## Music Advisor  
 https://github.com/FOswald86/BrainjetAcademy_MusicAdvisor  
+<img src="https://github.com/FOswald86/BrainjetAcademy_MusicAdvisor/blob/main/MusicAdvisor.gif" width="800" height="500" />  
 https://hyperskill.org/projects/62?track=17  
