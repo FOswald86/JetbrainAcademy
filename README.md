@@ -10,6 +10,7 @@ Projects
 
 - [Simple Chatty Bot](#simple-chatty-bot)
 - [Coffee Machin](#coffee-machin)
+- [Bulls and Cows](#bulls-and-cows)
 - [Tic-Tac-Toe](#tic-tac-toe)
 - [Cinema Room Manager](#cinema-room-manager)
 - [Amazing Numbers](#amazing-numbers)
@@ -31,6 +32,11 @@ https://hyperskill.org/projects/31
 https://github.com/FOswald86/JetbrainsAcademy_CoffeeMachine   
 <img src="https://github.com/FOswald86/JetbrainsAcademy_CoffeeMachine/blob/master/CoffeeMachine.gif" width="800" height="500" />  
 https://hyperskill.org/projects/33  
+  
+## Bulls and Cows    
+https://github.com/FOswald86/JetbrainAcademy_BullsAndCows   
+<img src="https://github.com/FOswald86/JetbrainAcademy_BullsAndCows/blob/main/BullsAndCows.gif" width="800" height="500" />  
+https://hyperskill.org/projects/53?track=17  
   
 ## Tic-Tac-Toe   
 https://github.com/FOswald86/JetbrainAcademy_TicTacToe  
