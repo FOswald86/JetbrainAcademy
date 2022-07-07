@@ -12,6 +12,7 @@ Projects
 - [Coffee Machin](#coffee-machin)
 - [Bulls and Cows](#bulls-and-cows)
 - [Tic-Tac-Toe](#tic-tac-toe)
+- [Tic-Tac-Toe with AI](#tic-tac-toe-with-AI)
 - [Cinema Room Manager](#cinema-room-manager)
 - [Amazing Numbers](#amazing-numbers)
 - [Battle Ships](#battle-ships)  
@@ -43,6 +44,11 @@ https://github.com/FOswald86/JetbrainAcademy_TicTacToe
 <img src="https://github.com/FOswald86/JetbrainAcademy_TicTacToe/blob/main/TicTacToe.gif" width="800" height="500" />  
 https://hyperskill.org/projects/48  
   
+## Tic-Tac-Toe with AI   
+https://github.com/FOswald86/JetbrainAcademy_TicTacToe-with-AI 
+<img src="https://github.com/FOswald86/JetbrainAcademy_TicTacToe-with-AI/blob/main/TicTacToeAI.gif" width="800" height="500" />  
+https://hyperskill.org/projects/81?track=1    
+    
 ## Cinema Room Manager   
 https://github.com/FOswald86/JetbrainAcademy_CinemaRoomManager  
 <img src="https://github.com/FOswald86/JetbrainAcademy_CinemaRoomManager/blob/main/CinemaRoomManager.gif" width="800" height="500" />  
