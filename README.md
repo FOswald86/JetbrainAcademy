@@ -21,7 +21,7 @@ Projects
 - [Budget Manager](#budget-manager)
 - [Game of Life](#game-of-life)
 - [Simple Banking System](#simple-banking-system)
-- [Cinema Romm REST Service] (#cinema-room-rest-service)
+- [Cinema Room REST Service](#Cinema-Room-REST-Service)
 - [Music Advisor](#music-advisor)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
