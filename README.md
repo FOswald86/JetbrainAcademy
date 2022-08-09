@@ -21,6 +21,7 @@ Projects
 - [Budget Manager](#budget-manager)
 - [Game of Life](#game-of-life)
 - [Simple Banking System](#simple-banking-system)
+- [Cinema Romm REST Service] (#cinema-room-rest-service)
 - [Music Advisor](#music-advisor)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
@@ -88,7 +89,12 @@ https://hyperskill.org/projects/54
 ## Simple Banking System  
 https://github.com/FOswald86/JetbrainAcademy_SimpleBankingSystem  
 <img src="https://github.com/FOswald86/JetbrainAcademy_SimpleBankingSystem/blob/main/SimpleBankingSystem.gif" width="800" height="500" />  
-https://hyperskill.org/projects/93
+https://hyperskill.org/projects/93  
+  
+## Cinema Room REST Service  
+https://github.com/FOswald86/JetbrainAcaemy_CinemaRoomREST_Service  
+<img src="https://github.com/FOswald86/JetbrainAcaemy_CinemaRoomREST_Service/blob/main/ezgif.com-gif-maker.gif" width="800" height="500" />  
+https://hyperskill.org/projects/189  
   
 ## Music Advisor  
 https://github.com/FOswald86/BrainjetAcademy_MusicAdvisor  
